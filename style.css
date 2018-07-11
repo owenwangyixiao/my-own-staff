@@ -1,9 +1,11 @@
 body{
-   height: 400px:
-   background-color: #ddd4d5
-   background-image: url('../img/background-image:');
-   background-report: no-repeat;
+   height: 400px;
+
+   background-color: #ddd4d5;
+   background-image: url('../my-own-staff/img/background.jpg');
+   background-repeat: no-repeat;
    background-attachment: scroll;
    background-position: 50% 50%;
    background-size: cover;
+   /* coding is really a pleasure sometimes */
 }
