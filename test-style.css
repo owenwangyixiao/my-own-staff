@@ -12,7 +12,7 @@ section:nth-child(1) {
 }
 
 section:nth-child(2) {
-   background-color: green;
+   background-color: rgb(249,224,215);
 }
 
 section:nth-child(3) {
@@ -21,6 +21,10 @@ section:nth-child(3) {
 
 section:nth-child(4) {
    background-color: rebeccapurple;
+}
+
+section:nth-child(5) {
+   background-color: red;
 }
 
 section div {
