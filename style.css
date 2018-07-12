@@ -1,11 +1,39 @@
+*  {
+   margin: 0;
+}
+
 body{
-   height: 400px;
+   /* height: 400px;
 
    background-color: #ddd4d5;
    background-image: url('../my-own-staff/img/background.jpg');
    background-repeat: no-repeat;
    background-attachment: scroll;
    background-position: 50% 50%;
-   background-size: cover;
+   background-size: cover; */
    /* coding is really a pleasure sometimes */
 }
+
+
+
+
+   div {
+      height: 100px;
+   }
+
+   div:nth-child(1) {
+      background-color: red;
+   }
+
+   div:nth-child(2) {
+      background-color: blue;
+   }
+
+   div:nth-child(3) {
+      background-color: green;
+   }
+
+   div p {
+      width: 80%;
+      margin: auto;
+   }
