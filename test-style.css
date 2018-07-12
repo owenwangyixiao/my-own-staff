@@ -1,0 +1,33 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+section {
+   height: 200px;
+}
+
+section:nth-child(1) {
+   background-color: red;
+}
+
+section:nth-child(2) {
+   background-color: green;
+}
+
+section:nth-child(3) {
+   background-color: blue;
+}
+
+section:nth-child(4) {
+   background-color: rebeccapurple;
+}
+
+section div {
+   width: 50%;
+   margin: auto;
+}
+
+p {
+   margin: auto;
+}
